@@ -17,10 +17,6 @@
       <change afterPath="$PROJECT_DIR$/../authentication/src/AppBundle/Controller/SecurityController.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../authentication/src/AppBundle/Controller/UserController.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../authentication/src/AppBundle/Security/PostVoter.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/laravel-plugin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../symfony/.idea/php.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../symfony/.idea/vcs.xml" afterDir="false" />
     </list>
@@ -320,7 +316,7 @@
       <workItem from="1557256918510" duration="2049000" />
       <workItem from="1557427438189" duration="497000" />
       <workItem from="1557427955965" duration="31000" />
-      <workItem from="1557561449017" duration="580000" />
+      <workItem from="1557561449017" duration="850000" />
     </task>
     <servers />
   </component>
@@ -357,7 +353,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4087000" />
+    <option name="totallyTimeSpent" value="4357000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="338" y="62" width="1371" height="1170" extended-state="0" />
