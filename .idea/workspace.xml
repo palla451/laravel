@@ -149,7 +149,7 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="PhpDebugGeneral" break_at_first_line="true" listening_started="true" />
+  <component name="PhpDebugGeneral" break_at_first_line="true" />
   <component name="PhpServers">
     <servers>
       <server host="laravel.local" id="27fef6bf-723e-435d-bc98-fdb79ff2b527" name="laravel.local" use_path_mappings="true">
@@ -316,7 +316,7 @@
       <workItem from="1557256918510" duration="2049000" />
       <workItem from="1557427438189" duration="497000" />
       <workItem from="1557427955965" duration="31000" />
-      <workItem from="1557561449017" duration="850000" />
+      <workItem from="1557561449017" duration="1123000" />
     </task>
     <servers />
   </component>
@@ -353,7 +353,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4357000" />
+    <option name="totallyTimeSpent" value="4630000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="338" y="62" width="1371" height="1170" extended-state="0" />
@@ -371,7 +371,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3295562" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.21718602" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3295562" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
